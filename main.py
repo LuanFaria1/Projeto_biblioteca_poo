@@ -133,6 +133,6 @@ def main():
         else:
             print("Opção inválida. Por favor, selecione uma opção válida.")
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
     input("Pressione Enter para sair...")
